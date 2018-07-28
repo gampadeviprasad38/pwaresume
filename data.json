@@ -1,0 +1,55 @@
+{"details":{
+  "image":"profile.png",
+  "name":"surya",
+  "phoneno":"+91-8464032835",
+  "email":"venkatasuryanarayana.n@apssdc.in",
+  "Address":"NH 9, Hyderabad Road, Kanchikacherla, Andhra Pradesh 521180"
+},
+"career":{
+  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+"education":[
+  {
+  "qualification":"B.Tech",
+  "institute":"MIC college",
+  "year":"2016-2020",
+  "percentage":"89%"
+},
+{
+"qualification":"Intermediate",
+"institute":"Sri chaitanya college",
+"year":"2014-2016",
+"percentage":"98%"
+},
+{
+"qualification":"SSC",
+"institute":"Narayana school",
+"year":"2014",
+"percentage":"99%"
+}
+],
+"skills":[{
+  "title":"Programming language",
+  "info":["C,C++,Java,R,Python"]
+},
+{
+  "title":"Databases",
+  "info":["oracle,sql,mysql,Tinydb"]
+},
+{
+  "title":"Operating systems",
+  "info":["windows,Linux,ubuntu,Dos"]
+}
+],
+"achievements":[
+  {
+      "title":"Prizes",
+      "info":"Won 1st prize at Cambridge Unversity"
+  },
+  {
+    "title":"Extra Curricular Activities",
+    "info":"Participated various Techinical Events in College"
+  }
+]
+
+}
